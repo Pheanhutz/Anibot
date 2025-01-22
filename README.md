@@ -26,7 +26,7 @@ This script automates various tasks for the Animix miniapp telegram.
 1. Clone the repository:
     ```sh
     git clone https://github.com/Pheanhutz/Anibot.git
-    cd animixBot
+    cd Anibot
     ```
 
 2. Install the required dependencies:
