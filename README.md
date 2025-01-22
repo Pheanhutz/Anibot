@@ -8,7 +8,6 @@ This script automates various tasks for the Animix miniapp telegram.
 - **Auto Join/Claim Missions**
 - **Auto Gatcha New Pets**
 - **Auto Complete Quests**
-- **Auto Merge Pets**
 - **Auto Claim Rewards**
 - **Support Multy accounts**
 - **Support Proxy Usage**
@@ -49,5 +48,3 @@ This script automates various tasks for the Animix miniapp telegram.
     ```
 
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-This project is licensed under the [MIT License](LICENSE).
